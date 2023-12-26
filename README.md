@@ -18,6 +18,7 @@ The application features the basic CRUD operations for the recipes added via Rea
 
 ## Technologies and Tools
 -- JavaScript/ HTML/ CSS
+
 -- React
 
 ## Conclusion
